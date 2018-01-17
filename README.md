@@ -1,2 +1,2 @@
 # Packet-Sniffer
-Basic Packet Sniffer, written in python for a larger project.
+Work in progress stand alone packet sniffer.
